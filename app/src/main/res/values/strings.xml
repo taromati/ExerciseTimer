@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">운동 타이머</string>
+    <string name="button_start">운동 시작</string>
+    <string name="label_exercise_time">운동시간:</string>
+    <string name="label_rest_time">휴식시간:</string>
+    <string name="label_repeat">반복:</string>
+</resources>
